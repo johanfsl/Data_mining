@@ -1,0 +1,12 @@
+fecha,producto,categoria,cliente,ventas
+1/5/2024,Laptop,Electronica,Juan Perez,1200
+1/6/2024,Mouse,Electronica,Ana Lopez,25
+1/6/2024,Teclado,Electronica,Carlos Ruiz,45
+1/7/2024,Silla,Oficina,Maria Gomez,150
+1/7/2024,Escritorio,Oficina,Pedro Sanchez,320
+1/8/2024,Monitor,Electronica,Laura Torres,280
+1/8/2024,Impresora,Oficina,Juan Perez,210
+1/9/2024,Auriculares,Electronica,Ana Lopez,60
+1/9/2024,Cuaderno,Papeleria,Carlos Ruiz,5
+1/10/2024,Pluma,Papeleria,Maria Gomez,3
+1/10/2024,,,Stephany Anahi,3
